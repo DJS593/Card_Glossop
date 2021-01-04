@@ -45,6 +45,14 @@ body {
   height: 100%;
 }
 
+.pic1-text {
+  text-align: center;
+}
+
+.pic2-text {
+  text-align: center;
+}
+
 .picture-3 {
   max-width: 200px;
   max-height: 200px;
